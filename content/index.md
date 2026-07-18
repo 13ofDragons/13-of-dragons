@@ -1,4 +1,5 @@
 ---
-title: 13 of Words
+title: 13 of Dragons
 ---
-Welcome to **13 of Words**. This is where I keep my writing. 
+
+Welcome to **13 of Dragons**.
